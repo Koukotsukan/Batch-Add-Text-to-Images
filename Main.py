@@ -181,7 +181,7 @@ def preview(template, config):
             cv2.destroyAllWindows()
             template = run("test", config)
         elif key == 61:
-            config["font"]["size"] -= 0.1
+            config["font"]["size"] += 0.1
             cv2.destroyAllWindows()
             template = run("test", config)
         elif key == 45:
