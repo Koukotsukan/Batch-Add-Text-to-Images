@@ -5,6 +5,10 @@ Add Text to Images (Only work on Mac OS)
 + Only work on Mac OS (Preview.app)
 + Cannot add Chinese/Korean/Japanese charactors to images
 
+### Features:
++ Add different text to the template (My purpose is to add names on certificates)
++ Generate new files and the filenames are the text
+
 ### Prerequisites：
 + Python3
   + opencv-python
