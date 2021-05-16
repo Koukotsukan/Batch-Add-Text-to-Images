@@ -2,8 +2,8 @@
 Add Text to Images (Only work on Mac OS)
 
 ### Limitation:
-+ Only work on Mac OS
-+ Cannot add Chinese/Korean/Japanese charactors to images
++ Only work on Mac OS, maybe Linux desktops are also ok but I haven't try.
++ Cannot add Chinese/Korean/Japanese characters to images
 
 ### Features:
 + Add different text to the template (My purpose is to add names on certificates)
