@@ -2,7 +2,7 @@
 Add Text to Images (Only work on Mac OS)
 
 ### Limitation:
-+ Only work on Mac OS (Preview.app)
++ Only work on Mac OS
 + Cannot add Chinese/Korean/Japanese charactors to images
 
 ### Features:
