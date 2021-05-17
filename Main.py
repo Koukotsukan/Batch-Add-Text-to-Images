@@ -50,7 +50,7 @@ def configReader():
 def configGenerator():
     if not os.path.exists("./config.json"):
         with open("./config.json", "w") as f:
-            f.write('{\n  "font": {\n\t"size" : 0.7,\n\t"bold" : 1\n\t"align" : 1\n  },\n  "position" : {\n\t"x": 10,\n\t"y": 10\n  },'
+            f.write('{\n  "font": {\n\t"size" : 0.7,\n\t"bold" : 1,\n\t"align" : 1\n  },\n  "position" : {\n\t"x": 10,\n\t"y": 10\n  },'
                     '\n  "color" : {\n\t"r": 0,\n\t"g": 0,\n\t"b": 0\n  },\n  "template":{\n\t"address" : "",'
                     '\n\t"name": "template.png"\n  }\n}\n')
     with open("./config.json", "r") as f:
