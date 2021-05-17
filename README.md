@@ -2,7 +2,7 @@
 Add Text to Images (Only work on Mac OS)
 
 ### Limitation:
-+ Only work on Mac OS, maybe Linux desktops are also ok but I haven't try.
++ GUI edit function only works on Mac OS, maybe Linux desktops are also ok but I didn't try. If you are using python on Windows, you can still use this program by manually setting the properties of text in ```config.json``` file. 
 + Cannot add Chinese/Korean/Japanese characters to images
 
 ### Features:
